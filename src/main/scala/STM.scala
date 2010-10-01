@@ -1,4 +1,4 @@
-package transactors
+package transactors.stm
 
 import se.scalablesolutions.akka.stm.global._
 import se.scalablesolutions.akka.util.Logger

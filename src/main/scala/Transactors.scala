@@ -1,4 +1,4 @@
-package transactors 
+package transactors.transactors
 
 import se.scalablesolutions.akka.actor._
 import se.scalablesolutions.akka.actor.Actor._

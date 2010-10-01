@@ -1,4 +1,4 @@
-package transactors
+package transactors.visibility
 
 import java.util.concurrent._
 import java.util.concurrent.locks._
